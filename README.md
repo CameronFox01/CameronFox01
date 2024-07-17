@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @CameronFox01
 - 👀 I’m interested in soccer, movies, and the outdoors
-- 🌱 I’m currently learning GUI for java
-- 💞️ I’m looking to collaborate on a phone app in Java
+- 🌱 I’m currently learning Swift for iOS production
+- 💞️ I’m looking to collaborate on a phone app in Swift
 - 📫 How to reach me cameron22401@icloud.com
-- 😄 Pronouns: ?
 - ⚡ Fun fact: I have broken my back.
 
 <!---
